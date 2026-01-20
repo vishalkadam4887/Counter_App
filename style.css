@@ -1,0 +1,19 @@
+#h1 #p{
+
+}
+
+h1{
+  height: 120px;
+  width: 220px;
+  font-size: 160px  ;
+  font-style: italic;
+    color: bisque;
+}
+
+p {
+  height: 100px;
+  width: 120px;
+  font-size: 150px;
+  font-style: italic;
+  color: hotpink;
+}
