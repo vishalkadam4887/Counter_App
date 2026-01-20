@@ -7,7 +7,8 @@ h1{
   width: 220px;
   font-size: 160px  ;
   font-style: italic;
-    color: bisque;
+  color: bisque;
+  text: center;
 }
 
 p {
